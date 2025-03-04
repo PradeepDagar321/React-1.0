@@ -1,0 +1,14 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "This is my first react work",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pradeep Dagar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
